@@ -1,1 +1,1 @@
-# Forest-Cover-Type-Prediction
+# Forest-Covertype-Prediction
